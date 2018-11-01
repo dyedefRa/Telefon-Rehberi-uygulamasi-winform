@@ -1,0 +1,47 @@
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.TelefonRehberi.exe.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.TelefonRehberi.exe
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.TelefonRehberi.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.Form1.resources
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.Properties.Resources.resources
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.exe
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.BusinessLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.BusinessLogicLayer.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.DatabaseLogicLayer.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.AnaForm.resources
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.TelefonRehberi.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.TelefonRehberi.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.TelefonRehberi.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.BusinessLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.BusinessLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\bin\Debug\Nteir.DatabaseLogicLayer.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.AnaForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.Form1.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.Properties.Resources.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.TelefonRehberi\obj\Debug\Nteir.TelefonRehberi.pdb

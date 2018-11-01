@@ -1,0 +1,29 @@
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.DatabaseLogicLayer\obj\Debug\Nteir.DatabaseLogicLayer.pdb

@@ -1,0 +1,23 @@
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.Entities\obj\Debug\Nteir.Entities.pdb

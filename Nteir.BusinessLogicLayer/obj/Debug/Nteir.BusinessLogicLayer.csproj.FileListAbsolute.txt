@@ -1,0 +1,29 @@
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.BusinessLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.BusinessLogicLayer.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.dll
+C:\Users\Asus\source\repos\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.BusinessLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.BusinessLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.Entities.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.DatabaseLogicLayer.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.Entities.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\Nteir.Entities.dll.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\UDEMY\NtierUdemy\Nteir.BusinessLogicLayer\obj\Debug\Nteir.BusinessLogicLayer.pdb
